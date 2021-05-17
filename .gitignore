@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+
+# Log files
+npm-debug.log*
+lerna-debug.log*
+
+# Editor settings
+.vscode
